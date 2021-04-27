@@ -1,3 +1,3 @@
 # number-guessing-game
 
-Exsercise in Python - number guessing game.
+Exercise in Python - number guessing game.
